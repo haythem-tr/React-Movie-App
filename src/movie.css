@@ -1,0 +1,41 @@
+.movie-card{
+    border: 2px solid black;
+    width: 200px;
+  height: 250px;
+  position: relative;
+  margin: 88px;
+  
+}
+.movie-description{
+    border: 2px solid black;
+}
+
+.movie-rating{
+position: absolute;
+top: 0;
+right: 0;
+padding: 5px 10px;
+border: 2px solid black;
+border-top: none;
+border-right: none;
+}
+.liste{
+    text-align: center;
+display: flex;
+flex-wrap: wrap;
+
+}
+.search{
+    text-align: center;
+}
+.star{
+    text-align: center;
+}
+.new-movie-card {
+    font-size: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  

@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aos": "^2.3.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-progressive-image-loading": "^3.0.3",
+    "react-scripts": "2.1.2",
+    "react-star-rating-component": "^1.4.1",
+    "react-star-ratings": "^2.3.0",
+    "star-ratings": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
